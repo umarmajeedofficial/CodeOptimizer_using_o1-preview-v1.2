@@ -3,4 +3,4 @@ together
 openai
 textblob
 nltk
-
+matplotlib
