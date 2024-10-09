@@ -1,1 +1,6 @@
+streamlit
+together-python
+openai
+textblob
+nltk
 
