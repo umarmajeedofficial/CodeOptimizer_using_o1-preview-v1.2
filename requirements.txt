@@ -1,5 +1,5 @@
 streamlit
-together-python
+together
 openai
 textblob
 nltk
